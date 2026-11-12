@@ -1,0 +1,15 @@
+{
+  "category": "clocks",
+  "short_description": "Small game about our cruel world",
+  "description": "aregergwethgqegqergq3rg3qrg3r3g3rg3rg3rg3rg3rg3rg3rg",
+  "changelog": "Everything",
+  "screenshots": [
+    "screenshots/front-4.png",
+    "screenshots/front-2.png",
+    "screenshots/front-1.png",
+    "screenshots/front-3.png"
+  ],
+  "back_screenshots": [
+    "screenshots/back-1.png"
+  ]
+}

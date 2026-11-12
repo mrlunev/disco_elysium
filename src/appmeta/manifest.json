@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "id": "app.mrlunev.disco_elysium",
+  "name": "Disco Elysium",
+  "version": "0.1.0",
+  "api_version": "27.12.0",
+  "description": "Small game about our cruel world",
+  "author": "mrlunev"
+}
